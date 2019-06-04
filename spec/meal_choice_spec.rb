@@ -1,4 +1,5 @@
 require 'spec_helper'
+required 'meal_choice.rb'
 
 describe '#meal_choice' do
   it 'should default to meat for the protein' do
